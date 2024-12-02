@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Autualmente autoditada, em breve estudante de ADS<br>🤯 Gosto de entender como os negócios funcionam<br>🎨Criativo para resoluções de problemas e para ideais<br>🍳 Apaixonado por comida e por fazer ela :)</p>
+<p align="left">📚 Autualmente autoditada, em breve estudante de Ciência da Computação<br>🤯 Gosto de entender como os negócios funcionam<br>🎨Criativo para resoluções de problemas e para ideais<br>🍳 Apaixonado por comida e por fazer ela :)</p>
 
 ###
 
